@@ -20,6 +20,7 @@ class TipCalculator extends StatelessWidget {
           billAmount = 0.0;
         }
       },
+      // It my Comment
       decoration: InputDecoration(labelText: "Bill amount(\$)"),
     );
 
